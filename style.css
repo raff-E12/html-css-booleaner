@@ -145,3 +145,44 @@ body{
     padding: 10px;
     width: 90%;
 }
+
+.bonus-cont{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 30px;
+    padding: 10px;
+}
+
+.box-con{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 40px;
+    width: 100%;
+}
+
+#bonus-img-1{
+    background-image: url(img/monitor.jpg);
+    width: 400px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    text-decoration: underline;
+}
+
+
+#bonus-img-2{
+    background-image: url(img/graph.jpg);
+    width: 400px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    text-decoration: underline;
+}
