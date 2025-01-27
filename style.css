@@ -55,6 +55,7 @@ body{
     justify-content: flex-start;
     padding: 2px;
     overflow: hidden;
+    background-position: 10px;
 }
 
 .img-bar{
@@ -104,4 +105,38 @@ body{
     width: 90%;
     gap: 12px;
     padding: 10px;
+}
+
+.table-sc{
+    width: 80%;
+}
+
+#table-sc-art {
+    width: 100%;
+    border-collapse: collapse;
+    padding: 10px;
+}
+#table-sc-art th, td {
+    padding: 8px;
+    text-align: left;
+    padding: 20px;
+    font-family: "Raleway", serif;
+    font-optical-sizing: auto;
+    font-weight: 526;
+    font-style: normal;
+    font-size: 1.10em;
+}
+#table-sc-art th {
+    background-color: #0597F2;
+    padding: 5px;
+    color: #fff;
+    padding: 20px;
+}
+
+#tr-1{
+    background-color: #53CCA7;
+}
+
+#tr-2{
+    background-color: #53CCA7;
 }
