@@ -4,6 +4,39 @@
     box-sizing: border-box;
 } 
 
+h1, h2{
+  font-family: "Raleway", serif;
+  font-optical-sizing: auto;
+  font-weight: 826;
+  font-style: normal;
+  text-transform: capitalize;
+  font-size: 2em;
+}
+
+p{
+  font-family: "Raleway", serif;
+  font-optical-sizing: auto;
+  font-weight: 526;
+  font-style: normal;
+  font-size: 1.10em;
+}
+
+h4{
+  font-family: "Raleway", serif;
+  font-optical-sizing: auto;
+  font-weight: 526;
+  font-style: normal;
+  font-size: 1.5em;
+}
+
+h6{
+  font-family: "Raleway", serif;
+  font-optical-sizing: auto;
+  font-weight: 526;
+  font-style: normal;
+  font-size: 1.3em;
+}
+
 
 body{
     display: flex;
