@@ -76,9 +76,15 @@ body{
     gap: 40px;
 }
 
-.img-sc-art{
+.img-art{
     display: flex;
     flex-direction: row;
+    gap: 10px;
+}
+
+.img-sc-art{
+    display: flex;
+    flex-direction: column;
     gap: 20px;
 }
 
@@ -88,9 +94,4 @@ body{
 
 .author-art h4 strong{
     color: #057AF2;
-}
-
-.img-art{
-    width: 200%;
-    height: auto;
 }
