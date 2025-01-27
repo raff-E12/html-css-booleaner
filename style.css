@@ -95,3 +95,13 @@ body{
 .author-art h4 strong{
     color: #057AF2;
 }
+
+.art-txt-sc{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    width: 90%;
+    gap: 12px;
+    padding: 10px;
+}
