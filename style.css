@@ -43,7 +43,6 @@ body{
     align-items: center;
     justify-content: flex-start;
     flex-direction: column;
-    padding: 0;
     background-color: #0597F2;
 }
 
@@ -69,4 +68,21 @@ body{
     background-color: #fff;
     width: 100%;
     border-top: 10px solid #0F2859;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.img-sc-art{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.img-art{
+    width: 200%;
+    height: auto;
 }
