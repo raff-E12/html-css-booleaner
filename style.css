@@ -82,6 +82,14 @@ body{
     gap: 20px;
 }
 
+.author-art{
+    color: #8C7161;
+}
+
+.author-art h4 strong{
+    color: #057AF2;
+}
+
 .img-art{
     width: 200%;
     height: auto;
